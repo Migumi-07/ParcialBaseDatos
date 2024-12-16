@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Directorios de construcción
+build/
+dist/
